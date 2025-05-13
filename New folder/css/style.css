@@ -281,11 +281,11 @@ fieldset{
 @media only screen and (max-width: 768px) {
   .navbar__menu a {
     font-size: 0.9rem; /* smaller nav text */
-    padding: 0.5rem 0.75rem; /* reduce nav padding */
+    padding: 0.5rem 0.75rem; 
   }
 
   ul li {
-    font-size: 1rem; /* smaller list items */
+    font-size: 1rem;
   }
 
   h1 {
@@ -300,12 +300,12 @@ fieldset{
 /* ------------------ Mobile Screens (≤480px) ------------------ */
 @media only screen and (max-width: 480px) {
   .navbar__menu a {
-    font-size: 0.65rem !important; /* make nav text even smaller */
-    padding: 0.3rem 0.4rem !important; /* tighter padding */
+    font-size: 0.65rem !important;
+    padding: 0.3rem 0.4rem !important;
   }
 
   .navbar__menu li {
-    margin: 0 2px !important; /* slight space between items */
+    margin: 0 2px !important; /
   }
 
   ul li {
